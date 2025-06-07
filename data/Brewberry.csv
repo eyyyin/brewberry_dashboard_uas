@@ -1,0 +1,201 @@
+Date,Platform,Sentiment,Location,Engagements,Media_Type,Influencer_Brand,Post_Type
+2023-12-21,YouTube,Positive,Medan,19689,Video,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-16,YouTube,Positive,Surabaya,7059,Image,@drinkculture | Brewberry,Collab
+2023-12-17,TikTok,Positive,Jakarta,4440,Image,@snackattack | Brewberry,Product Launch
+2023-12-07,Instagram,Positive,Yogyakarta,18996,Image,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-22,Instagram,Positive,Surabaya,3439,Text,@kulinerhits | Brewberry,Product Launch
+2023-12-07,TikTok,Positive,Makassar,309,Carousel,@kulinerhits | Brewberry,Promo
+2023-12-27,YouTube,Positive,Yogyakarta,9893,Image,@tastebuds.id | Brewberry,Product Launch
+2023-12-05,Instagram,Negative,Jakarta,8834,Carousel,@drinkculture | Brewberry,Product Launch
+2023-12-13,TikTok,Positive,Medan,4723,Image,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-08,YouTube,Negative,Bandung,4860,Text,@tastebuds.id | Brewberry,Product Launch
+2023-12-24,YouTube,Positive,Bandung,15461,Image,@drinkculture | Brewberry,Promo
+2023-12-25,X/Twitter,Negative,Yogyakarta,9433,Video,@snackattack | Brewberry,Review
+2023-12-05,YouTube,Negative,Medan,11822,Image,@snackattack | Brewberry,Collab
+2023-12-05,X/Twitter,Positive,Medan,15940,Video,@snackattack | Brewberry,Promo
+2023-12-22,X/Twitter,Neutral,Surabaya,8722,Carousel,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-27,X/Twitter,Positive,Surabaya,13739,Image,@snackattack | Brewberry,Product Launch
+2023-12-08,X/Twitter,Neutral,Yogyakarta,4854,Video,@snackattack | Brewberry,Behind the Scenes
+2023-12-18,X/Twitter,Positive,Yogyakarta,872,Image,@drinkculture | Brewberry,Collab
+2023-12-07,TikTok,Neutral,Makassar,3258,Carousel,@drinkculture | Brewberry,Promo
+2023-12-20,Instagram,Positive,Bandung,19488,Image,@kulinerhits | Brewberry,Collab
+2023-12-21,X/Twitter,Positive,Yogyakarta,5977,Carousel,@kulinerhits | Brewberry,Promo
+2023-12-17,TikTok,Positive,Denpasar,1546,Carousel,@genzfoodie | Brewberry,Collab
+2023-12-04,X/Twitter,Positive,Makassar,15334,Text,@snackattack | Brewberry,Product Launch
+2023-12-14,TikTok,Positive,Denpasar,9910,Video,@snackattack | Brewberry,Promo
+2023-12-26,YouTube,Neutral,Yogyakarta,12859,Video,@drinkculture | Brewberry,Promo
+2023-12-04,TikTok,Neutral,Medan,10615,Text,@kulinerhits | Brewberry,Promo
+2023-12-21,TikTok,Neutral,Surabaya,14779,Text,@snackattack | Brewberry,Promo
+2023-12-08,YouTube,Positive,Denpasar,18962,Carousel,@tastebuds.id | Brewberry,Review
+2023-12-28,X/Twitter,Neutral,Bandung,5561,Carousel,@snackattack | Brewberry,Collab
+2023-12-04,YouTube,Positive,Yogyakarta,12860,Text,@drinkculture | Brewberry,Promo
+2023-12-13,TikTok,Positive,Surabaya,1697,Text,@snackattack | Brewberry,Review
+2023-12-05,YouTube,Neutral,Makassar,10333,Video,@drinkculture | Brewberry,Product Launch
+2023-12-13,TikTok,Positive,Medan,5328,Video,@tastebuds.id | Brewberry,Product Launch
+2023-12-15,Instagram,Positive,Bandung,8124,Carousel,@genzfoodie | Brewberry,Review
+2023-12-27,TikTok,Positive,Bandung,9463,Video,@drinkculture | Brewberry,Behind the Scenes
+2023-12-17,Instagram,Positive,Denpasar,10281,Carousel,@tastebuds.id | Brewberry,Collab
+2023-12-18,YouTube,Negative,Surabaya,17655,Video,@snackattack | Brewberry,Review
+2023-12-22,YouTube,Positive,Surabaya,7597,Image,@genzfoodie | Brewberry,Promo
+2023-12-17,TikTok,Neutral,Denpasar,9616,Text,@tastebuds.id | Brewberry,Promo
+2023-12-25,X/Twitter,Negative,Jakarta,1015,Video,@drinkculture | Brewberry,Collab
+2023-12-29,X/Twitter,Positive,Bandung,12789,Image,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-05,X/Twitter,Negative,Medan,8418,Video,@kulinerhits | Brewberry,Product Launch
+2023-12-03,YouTube,Positive,Medan,12442,Image,@genzfoodie | Brewberry,Promo
+2023-12-06,X/Twitter,Positive,Yogyakarta,19435,Carousel,@genzfoodie | Brewberry,Review
+2023-12-08,Instagram,Positive,Denpasar,4010,Text,@drinkculture | Brewberry,Collab
+2023-12-02,TikTok,Neutral,Medan,4661,Video,@genzfoodie | Brewberry,Review
+2023-12-13,YouTube,Positive,Denpasar,4866,Text,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-22,TikTok,Positive,Surabaya,3480,Carousel,@tastebuds.id | Brewberry,Product Launch
+2023-12-30,Instagram,Positive,Jakarta,7867,Video,@drinkculture | Brewberry,Collab
+2023-12-31,YouTube,Positive,Bandung,12514,Video,@drinkculture | Brewberry,Promo
+2023-12-13,TikTok,Positive,Medan,7795,Video,@drinkculture | Brewberry,Behind the Scenes
+2023-12-24,X/Twitter,Positive,Jakarta,2701,Image,@kulinerhits | Brewberry,Behind the Scenes
+2023-12-06,YouTube,Positive,Jakarta,7815,Carousel,@drinkculture | Brewberry,Behind the Scenes
+2023-12-27,Instagram,Positive,Makassar,6466,Text,@tastebuds.id | Brewberry,Product Launch
+2023-12-05,Instagram,Neutral,Makassar,9794,Image,@snackattack | Brewberry,Review
+2023-12-02,Instagram,Positive,Yogyakarta,11657,Carousel,@drinkculture | Brewberry,Promo
+2023-12-30,Instagram,Neutral,Bandung,3873,Video,@tastebuds.id | Brewberry,Review
+2023-12-17,YouTube,Neutral,Jakarta,16912,Carousel,@tastebuds.id | Brewberry,Promo
+2023-12-14,X/Twitter,Negative,Denpasar,18603,Carousel,@snackattack | Brewberry,Behind the Scenes
+2023-12-25,TikTok,Positive,Makassar,14367,Image,@kulinerhits | Brewberry,Review
+2023-12-12,X/Twitter,Positive,Jakarta,14076,Image,@snackattack | Brewberry,Review
+2023-12-19,TikTok,Positive,Medan,6965,Video,@snackattack | Brewberry,Collab
+2023-12-15,Instagram,Positive,Medan,16463,Text,@snackattack | Brewberry,Collab
+2023-12-04,X/Twitter,Positive,Jakarta,9108,Video,@drinkculture | Brewberry,Behind the Scenes
+2023-12-20,Instagram,Negative,Medan,3399,Video,@genzfoodie | Brewberry,Product Launch
+2023-12-19,X/Twitter,Neutral,Medan,17482,Carousel,@drinkculture | Brewberry,Product Launch
+2023-12-02,X/Twitter,Neutral,Medan,9548,Carousel,@tastebuds.id | Brewberry,Promo
+2023-12-24,TikTok,Positive,Jakarta,11390,Video,@genzfoodie | Brewberry,Review
+2023-12-23,TikTok,Neutral,Denpasar,8912,Carousel,@drinkculture | Brewberry,Product Launch
+2023-12-08,YouTube,Positive,Medan,10507,Image,@tastebuds.id | Brewberry,Promo
+2023-12-06,Instagram,Positive,Surabaya,2050,Image,@genzfoodie | Brewberry,Collab
+2023-12-26,Instagram,Negative,Bandung,15076,Carousel,@kulinerhits | Brewberry,Promo
+2023-12-05,TikTok,Positive,Bandung,7721,Carousel,@snackattack | Brewberry,Promo
+2023-12-27,Instagram,Positive,Yogyakarta,18890,Image,@drinkculture | Brewberry,Promo
+2023-12-14,X/Twitter,Neutral,Denpasar,13980,Text,@kulinerhits | Brewberry,Behind the Scenes
+2023-12-01,X/Twitter,Negative,Medan,11501,Carousel,@kulinerhits | Brewberry,Product Launch
+2023-12-24,TikTok,Positive,Makassar,2670,Image,@snackattack | Brewberry,Promo
+2023-12-20,Instagram,Neutral,Surabaya,5096,Carousel,@drinkculture | Brewberry,Promo
+2023-12-19,X/Twitter,Neutral,Makassar,17533,Video,@genzfoodie | Brewberry,Review
+2023-12-04,YouTube,Positive,Jakarta,19186,Image,@kulinerhits | Brewberry,Product Launch
+2023-12-22,X/Twitter,Neutral,Bandung,12869,Carousel,@snackattack | Brewberry,Collab
+2023-12-09,Instagram,Positive,Yogyakarta,6561,Video,@kulinerhits | Brewberry,Product Launch
+2023-12-03,X/Twitter,Neutral,Makassar,15440,Image,@tastebuds.id | Brewberry,Collab
+2023-12-07,TikTok,Positive,Makassar,9109,Image,@snackattack | Brewberry,Promo
+2023-12-27,X/Twitter,Positive,Yogyakarta,6850,Image,@tastebuds.id | Brewberry,Product Launch
+2023-12-05,Instagram,Neutral,Medan,6520,Video,@snackattack | Brewberry,Promo
+2023-12-07,YouTube,Positive,Denpasar,15459,Image,@kulinerhits | Brewberry,Promo
+2023-12-06,X/Twitter,Positive,Bandung,19036,Text,@genzfoodie | Brewberry,Product Launch
+2023-12-03,TikTok,Positive,Denpasar,15512,Text,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-18,TikTok,Positive,Medan,19706,Image,@drinkculture | Brewberry,Promo
+2023-12-04,Instagram,Neutral,Medan,4664,Video,@tastebuds.id | Brewberry,Product Launch
+2023-12-26,TikTok,Positive,Jakarta,1324,Text,@tastebuds.id | Brewberry,Review
+2023-12-11,TikTok,Positive,Medan,9896,Text,@tastebuds.id | Brewberry,Promo
+2023-12-27,YouTube,Neutral,Makassar,8998,Carousel,@genzfoodie | Brewberry,Collab
+2023-12-09,YouTube,Positive,Denpasar,7217,Image,@tastebuds.id | Brewberry,Behind the Scenes
+2023-12-21,TikTok,Positive,Yogyakarta,19355,Carousel,@kulinerhits | Brewberry,Collab
+2023-12-21,X/Twitter,Positive,Makassar,15992,Text,@kulinerhits | Brewberry,Product Launch
+2023-12-13,X/Twitter,Positive,Medan,19451,Carousel,@genzfoodie | Brewberry,Product Launch
+2023-12-10,Instagram,Positive,Medan,19835,Video,@tastebuds.id | Brewberry,Collab
+2023-12-29,TikTok,Neutral,Makassar,18710,Carousel,@drinkculture | Brewberry,Behind the Scenes
+2023-12-14,TikTok,Positive,Denpasar,16645,Text,@drinkculture | Brewberry,Product Launch
+2023-12-07,X/Twitter,Positive,Makassar,7951,Carousel,@tastebuds.id | Brewberry,Review
+2023-12-29,YouTube,Neutral,Jakarta,12517,Text,@genzfoodie | Brewberry,Promo
+2023-12-16,YouTube,Neutral,Denpasar,2895,Image,@kulinerhits | Brewberry,Collab
+2023-12-26,Instagram,Negative,Surabaya,9362,Image,@kulinerhits | Brewberry,Promo
+2023-12-16,Instagram,Neutral,Surabaya,13244,Carousel,@genzfoodie | Brewberry,Review
+2023-12-21,X/Twitter,Neutral,Denpasar,3800,Text,@tastebuds.id | Brewberry,Promo
+2023-12-29,YouTube,Neutral,Bandung,9962,Video,@snackattack | Brewberry,Product Launch
+2023-12-23,Instagram,Neutral,Bandung,3191,Image,@snackattack | Brewberry,Behind the Scenes
+2023-12-29,TikTok,Positive,Yogyakarta,18247,Carousel,@tastebuds.id | Brewberry,Product Launch
+2023-12-06,TikTok,Positive,Makassar,10770,Carousel,@snackattack | Brewberry,Promo
+2023-12-04,Instagram,Neutral,Makassar,17027,Carousel,@genzfoodie | Brewberry,Review
+2023-12-12,Instagram,Neutral,Surabaya,16145,Image,@tastebuds.id | Brewberry,Review
+2023-12-18,YouTube,Neutral,Surabaya,17942,Carousel,@drinkculture | Brewberry,Product Launch
+2023-12-28,Instagram,Positive,Medan,12925,Image,@drinkculture | Brewberry,Product Launch
+2023-12-16,YouTube,Positive,Surabaya,5821,Carousel,@genzfoodie | Brewberry,Review
+2023-12-05,TikTok,Positive,Makassar,9544,Video,@snackattack | Brewberry,Review
+2023-12-07,TikTok,Neutral,Jakarta,16075,Image,@drinkculture | Brewberry,Promo
+2023-12-10,Instagram,Neutral,Makassar,6163,Image,@kulinerhits | Brewberry,Behind the Scenes
+2023-12-19,X/Twitter,Positive,Makassar,12410,Video,@snackattack | Brewberry,Behind the Scenes
+2023-12-30,YouTube,Neutral,Bandung,13676,Carousel,@genzfoodie | Brewberry,Collab
+2023-12-05,YouTube,Positive,Yogyakarta,13098,Video,@kulinerhits | Brewberry,Promo
+2023-12-08,YouTube,Positive,Surabaya,15888,Image,@kulinerhits | Brewberry,Collab
+2023-12-16,Instagram,Positive,Bandung,9803,Video,@genzfoodie | Brewberry,Product Launch
+2023-12-02,YouTube,Negative,Medan,8442,Text,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-27,X/Twitter,Neutral,Medan,5318,Text,@drinkculture | Brewberry,Review
+2023-12-28,X/Twitter,Positive,Denpasar,17597,Image,@drinkculture | Brewberry,Product Launch
+2023-12-12,TikTok,Negative,Jakarta,9696,Video,@kulinerhits | Brewberry,Product Launch
+2023-12-13,YouTube,Positive,Yogyakarta,16157,Image,@kulinerhits | Brewberry,Promo
+2023-12-22,Instagram,Positive,Jakarta,17964,Carousel,@kulinerhits | Brewberry,Promo
+2023-12-26,YouTube,Positive,Surabaya,4048,Text,@tastebuds.id | Brewberry,Product Launch
+2023-12-20,Instagram,Positive,Denpasar,3032,Video,@kulinerhits | Brewberry,Review
+2023-12-14,Instagram,Positive,Surabaya,9933,Carousel,@tastebuds.id | Brewberry,Review
+2023-12-21,YouTube,Positive,Makassar,8615,Carousel,@genzfoodie | Brewberry,Review
+2023-12-19,TikTok,Positive,Denpasar,10962,Carousel,@tastebuds.id | Brewberry,Product Launch
+2023-12-29,TikTok,Positive,Denpasar,8738,Image,@kulinerhits | Brewberry,Review
+2023-12-06,YouTube,Positive,Bandung,333,Video,@tastebuds.id | Brewberry,Product Launch
+2023-12-11,YouTube,Positive,Medan,18934,Carousel,@drinkculture | Brewberry,Promo
+2023-12-09,X/Twitter,Neutral,Medan,18982,Carousel,@tastebuds.id | Brewberry,Behind the Scenes
+2023-12-19,TikTok,Neutral,Yogyakarta,16595,Video,@snackattack | Brewberry,Behind the Scenes
+2023-12-08,X/Twitter,Neutral,Makassar,3315,Carousel,@genzfoodie | Brewberry,Collab
+2023-12-21,X/Twitter,Positive,Bandung,18989,Carousel,@snackattack | Brewberry,Promo
+2023-12-21,TikTok,Positive,Denpasar,3324,Image,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-02,TikTok,Positive,Bandung,3243,Carousel,@drinkculture | Brewberry,Collab
+2023-12-14,Instagram,Positive,Jakarta,17876,Carousel,@kulinerhits | Brewberry,Promo
+2023-12-11,X/Twitter,Positive,Denpasar,19222,Text,@tastebuds.id | Brewberry,Review
+2023-12-15,X/Twitter,Positive,Surabaya,598,Text,@snackattack | Brewberry,Collab
+2023-12-05,X/Twitter,Positive,Surabaya,12914,Carousel,@kulinerhits | Brewberry,Collab
+2023-12-08,Instagram,Neutral,Bandung,7785,Image,@snackattack | Brewberry,Review
+2023-12-03,Instagram,Positive,Jakarta,1266,Video,@tastebuds.id | Brewberry,Collab
+2023-12-06,TikTok,Positive,Surabaya,17430,Text,@genzfoodie | Brewberry,Product Launch
+2023-12-15,Instagram,Positive,Surabaya,13664,Carousel,@snackattack | Brewberry,Behind the Scenes
+2023-12-10,TikTok,Positive,Denpasar,16135,Text,@drinkculture | Brewberry,Behind the Scenes
+2023-12-07,Instagram,Positive,Medan,18788,Video,@drinkculture | Brewberry,Review
+2023-12-31,X/Twitter,Neutral,Denpasar,13952,Image,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-14,Instagram,Positive,Bandung,17800,Image,@genzfoodie | Brewberry,Collab
+2023-12-24,TikTok,Positive,Medan,14196,Carousel,@genzfoodie | Brewberry,Promo
+2023-12-11,TikTok,Neutral,Surabaya,6697,Video,@snackattack | Brewberry,Collab
+2023-12-06,Instagram,Positive,Makassar,14474,Text,@snackattack | Brewberry,Behind the Scenes
+2023-12-22,X/Twitter,Negative,Yogyakarta,12604,Carousel,@drinkculture | Brewberry,Promo
+2023-12-14,X/Twitter,Positive,Yogyakarta,256,Carousel,@kulinerhits | Brewberry,Behind the Scenes
+2023-12-02,YouTube,Positive,Surabaya,9149,Carousel,@snackattack | Brewberry,Product Launch
+2023-12-27,TikTok,Positive,Makassar,12406,Carousel,@drinkculture | Brewberry,Product Launch
+2023-12-31,Instagram,Positive,Jakarta,13627,Image,@tastebuds.id | Brewberry,Product Launch
+2023-12-27,TikTok,Neutral,Jakarta,14790,Image,@genzfoodie | Brewberry,Promo
+2023-12-24,YouTube,Positive,Surabaya,3492,Image,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-30,Instagram,Positive,Medan,17311,Text,@genzfoodie | Brewberry,Review
+2023-12-31,Instagram,Positive,Yogyakarta,4704,Image,@snackattack | Brewberry,Product Launch
+2023-12-26,YouTube,Neutral,Surabaya,7724,Text,@drinkculture | Brewberry,Review
+2023-12-19,Instagram,Positive,Denpasar,10946,Image,@drinkculture | Brewberry,Review
+2023-12-25,Instagram,Neutral,Denpasar,18102,Image,@snackattack | Brewberry,Review
+2023-12-27,YouTube,Positive,Jakarta,2825,Video,@genzfoodie | Brewberry,Product Launch
+2023-12-08,Instagram,Negative,Jakarta,12565,Video,@genzfoodie | Brewberry,Review
+2023-12-27,X/Twitter,Positive,Jakarta,1170,Video,@genzfoodie | Brewberry,Collab
+2023-12-15,X/Twitter,Neutral,Denpasar,11166,Video,@kulinerhits | Brewberry,Review
+2023-12-16,TikTok,Positive,Medan,8779,Text,@genzfoodie | Brewberry,Product Launch
+2023-12-22,Instagram,Positive,Jakarta,8386,Image,@drinkculture | Brewberry,Behind the Scenes
+2023-12-17,TikTok,Neutral,Medan,9370,Text,@kulinerhits | Brewberry,Collab
+2023-12-27,YouTube,Neutral,Denpasar,4216,Video,@genzfoodie | Brewberry,Behind the Scenes
+2023-12-11,YouTube,Positive,Bandung,8640,Carousel,@genzfoodie | Brewberry,Review
+2023-12-16,TikTok,Positive,Medan,12046,Video,@drinkculture | Brewberry,Product Launch
+2023-12-05,TikTok,Positive,Yogyakarta,10910,Image,@snackattack | Brewberry,Review
+2023-12-14,TikTok,Neutral,Yogyakarta,7807,Image,@drinkculture | Brewberry,Product Launch
+2023-12-30,YouTube,Neutral,Denpasar,12597,Text,@kulinerhits | Brewberry,Collab
+2023-12-19,Instagram,Positive,Surabaya,11679,Text,@kulinerhits | Brewberry,Product Launch
+2023-12-26,Instagram,Positive,Makassar,10950,Image,@tastebuds.id | Brewberry,Behind the Scenes
+2023-12-11,Instagram,Neutral,Yogyakarta,13767,Video,@snackattack | Brewberry,Review
+2023-12-01,YouTube,Positive,Denpasar,15025,Video,@genzfoodie | Brewberry,Product Launch
+2023-12-03,Instagram,Positive,Jakarta,15431,Image,@drinkculture | Brewberry,Behind the Scenes
+2023-12-10,YouTube,Positive,Makassar,17261,Carousel,@snackattack | Brewberry,Behind the Scenes
+2023-12-27,Instagram,Positive,Jakarta,15663,Carousel,@tastebuds.id | Brewberry,Product Launch
+2023-12-19,Instagram,Positive,Jakarta,11542,Image,@tastebuds.id | Brewberry,Behind the Scenes
+2023-12-10,TikTok,Neutral,Denpasar,1036,Video,@snackattack | Brewberry,Collab
+2023-12-09,X/Twitter,Positive,Jakarta,10025,Text,@genzfoodie | Brewberry,Promo
+2023-12-29,TikTok,Neutral,Medan,13748,Video,@drinkculture | Brewberry,Promo
+2023-12-15,Instagram,Positive,Jakarta,6739,Image,@snackattack | Brewberry,Product Launch
+2023-12-11,TikTok,Negative,Jakarta,19815,Text,@kulinerhits | Brewberry,Promo
+2023-12-19,TikTok,Neutral,Jakarta,14543,Text,@genzfoodie | Brewberry,Review
+2023-12-18,TikTok,Neutral,Denpasar,3006,Image,@kulinerhits | Brewberry,Collab
+2023-12-07,YouTube,Positive,Bandung,9339,Image,@genzfoodie | Brewberry,Behind the Scenes
