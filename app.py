@@ -38,10 +38,9 @@ def generate_ai_insight(chart_title, data_context_str):
     Hasilkan 3 insight kunci yang relevan untuk strategi produksi media atau marketing. 
     Format sebagai daftar bullet point. Fokus pada mengapa atau apa selanjutnya, bukan deskripsi data.
     """
-    
-    response = get_ai_response(user_prompt)
-    return response
-        return insight_text
+
+    insight_text = get_ai_response(user_prompt)
+    return insight_text
     except Exception as e:
         st.error(f"Gagal mendapatkan insight dari AI: {e}")
         return "Tidak dapat menghasilkan insight AI saat ini."
