@@ -5,6 +5,9 @@ import io
 import streamlit as st
 from openai import OpenAI
 
+# Tulis ini untuk debug
+st.write("API Key:", st.secrets["OPENROUTER_API_KEY"])
+
 # --- Konfigurasi OpenAI (untuk OpenRouter AI) ---
 # Ambil API Key dari Streamlit Secrets untuk keamanan
 client = OpenAI(
