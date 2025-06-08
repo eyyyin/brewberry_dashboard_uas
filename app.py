@@ -2,14 +2,31 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import io
-from openai import OpenAI
+import requests
 
-# --- Konfigurasi OpenAI (untuk OpenRouter AI) ---
-# Ambil API Key dari Streamlit Secrets untuk keamanan
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=st.secrets["OPENROUTER_API_KEY"] # Mengambil dari secrets.toml
-)
+API_KEY = st.secrets["OPENROUTER_API_KEY"]
+API_URL = "https://openrouter.ai/api/v1/chat/completions"
+
+headers = {
+    "Authorization": f"Bearer {API_KEY}",
+    "Content-Type": "application/json"
+}
+
+def get_ai_response(user_input):
+    data = {
+        "model": "openai/gpt-3.5-turbo",
+        "messages": [
+            {"role": "user", "content": user_input}
+        ]
+    }
+
+    response = requests.post(API_URL, headers=headers, json=data)
+
+    if response.status_code == 200:
+        return response.json()["choices"][0]["message"]["content"]
+    else:
+        return f"Gagal mendapatkan response AI. Error {response.status_code}: {response.text}"
+
 
 # --- Fungsi untuk Memanggil AI untuk Insight ---
 @st.cache_data(ttl=3600) # Cache insight AI selama 1 jam untuk performa dan menghindari re-call API
