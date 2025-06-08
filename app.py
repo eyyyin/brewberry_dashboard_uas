@@ -2,13 +2,14 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import io
+import streamlit as st
 from openai import OpenAI
 
 # --- Konfigurasi OpenAI (untuk OpenRouter AI) ---
 # Ambil API Key dari Streamlit Secrets untuk keamanan
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=st.secrets["OPENROUTER_API_KEY"] # Mengambil dari secrets.toml
+    api_key=st.secrets["OPENROUTER_API_KEY"]
 )
 
 # --- Fungsi untuk Memanggil AI untuk Insight ---
