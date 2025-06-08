@@ -8,7 +8,7 @@ from openai import OpenAI
 # Ambil API Key dari Streamlit Secrets untuk keamanan
 client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
-    api_key=st.secrets["OPENROUTER_API_KEY" = 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] # Mengambil dari secrets.toml
+    api_key=st.secrets["OPENROUTER_API_KEY"] # Mengambil dari secrets.toml
 )
 
 # --- Fungsi untuk Memanggil AI untuk Insight ---
