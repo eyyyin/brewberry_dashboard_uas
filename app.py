@@ -29,21 +29,18 @@ def get_ai_response(user_input):
 
 
 # --- Fungsi untuk Memanggil AI untuk Insight ---
-@st.cache_data(ttl=3600) # Cache insight AI selama 1 jam untuk performa dan menghindari re-call API
+@st.cache_data(ttl=3600)
 def generate_ai_insight(chart_title, data_context_str):
-    prompt_messages = [
-        {"role": "system", "content": "Anda adalah seorang ahli analisis media dan strategi konten. Tugas Anda adalah memberikan 3 insight kunci yang ringkas, relevan, dan dapat ditindaklanjuti berdasarkan data yang diberikan, fokus pada implikasi untuk produksi media atau marketing. Hindari mengulang deskripsi data, fokus pada 'mengapa' atau 'apa selanjutnya'."},
-        {"role": "user", "content": f"Berdasarkan data untuk chart '{chart_title}', yang memiliki konteks data berikut: {data_context_str}\n\nHasilkan 3 insight kunci yang relevan untuk strategi produksi media atau marketing. Format sebagai daftar bullet point."},
-    ]
+    user_prompt = f"""
+    Berdasarkan data untuk chart '{chart_title}', yang memiliki konteks data berikut: 
+    {data_context_str}
 
-    try:
-        response = client.chat.completions.create(
-            model="gpt-3.5-turbo", # Anda bisa ganti model ini dengan yang lain dari OpenRouter
-            messages=prompt_messages,
-            temperature=0.7, # Kontrol kreativitas respons (0.0-1.0)
-            max_tokens=300 # Batasi panjang respons AI
-        )
-        insight_text = response.choices[0].message.content
+    Hasilkan 3 insight kunci yang relevan untuk strategi produksi media atau marketing. 
+    Format sebagai daftar bullet point. Fokus pada mengapa atau apa selanjutnya, bukan deskripsi data.
+    """
+    
+    response = get_ai_response(user_prompt)
+    return response
         return insight_text
     except Exception as e:
         st.error(f"Gagal mendapatkan insight dari AI: {e}")
