@@ -1,0 +1,15 @@
+[theme]
+# Warna ungu gelap (seperti hitam ungu tua) GANTI JADI PINK
+backgroundColor = "#F05FD0" # Sekarang ini adalah warna latar belakang utama
+
+# Warna ungu cerah (seperti aksen utama)
+primaryColor = "#904FD2"
+
+# Warna oranye (seperti aksen sekunder, untuk sidebar/container)
+secondaryBackgroundColor = "#FB8E50"
+
+# Warna teks (putih terang agar kontras dengan latar belakang cerah)
+textColor = "#FFFFFF" # Diubah ke putih terang agar lebih jelas di atas pink
+
+# Tema dasar gelap Streamlit (ini akan tetap gelap, meskipun background utama pink, karena warna teks diatur ke putih)
+base="dark"
